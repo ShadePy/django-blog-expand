@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Latest Post",
+        "content": "Hello.",
+        "user_id:": 1
+    },
+    {
+        "title": "jquery",
+        "content": "jQuery Tutorials\r\n \r\n\r\njQuery is an open source JavaScript library that simplifies the interactions between an HTML/CSS document, or more precisely the Document Object Model (DOM), and JavaScript.\r\nElaborating the terms, jQuery simplifies HTML document traversing and manipulation, browser event handling, DOM animations, Ajax interactions, and cross-browser JavaScript development.\r\n\r\n",
+        "user_id:": 1
+    },
+    {
+        "title": "javascripter",
+        "content": "JavaScript : The Awesome Script\r\n \r\n\r\nEither you love it or hate it, but in the age of Microservice and REST API, you can not ignore JavaScript.\r\nJavaScript was once upon a time used only in client side(browser), but node js (execution engine/run time/web server) have made possible to run javascript on server side. JavaScript is everywhere \u2013 on Desktop/Server/Mobile.You can create mobile web app with javascript and html5, which has lot of advantages like save licensing cost $99 yearly to pay Apple for making IOS apps and you don\u2019t have to purchase MAC laptop to make your IOS app(Apple\u2019s app can only be made in MAC).\r\n",
+        "user_id:": 1
+    },
+    {
+        "title": "go diego go",
+        "content": "Go Programming Language\r\nGolang\r\nGolang is a procedural and statically typed programming language having the syntax similar to C programming language. Sometimes it is termed as Go Programming Language. It provides a rich standard library, garbage collection, and dynamic-typing capability. It was developed in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson at Google but launched in 2009 as an open-source programming language and mainly used in Google\u2019s production systems. Golang is one of the most trending programming languages among developers.",
+        "user_id:": 1
+    },
+    {
+        "title": "php kakoe-to",
+        "content": "PHP Tutorials\r\n\r\n\r\nThe term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-side scripting language designed specifically for web development. PHP can be easily embedded in HTML files and HTML codes can also be written in a PHP file. The thing that differentiates PHP with client-side language like HTML is, PHP codes are executed on the server whereas HTML codes are directly rendered on the browser.",
+        "user_id:": 1
+    },
+    {
+        "title": "Perl ;)",
+        "content": "Perl Programming Language\r\n\r\nPerl is a general purpose, high level interpreted and dynamic programming language. Perl supports both the procedural and Object-Oriented programming. Perl is a lot similar to C syntactically and is easy for the users who have knowledge of C, C++. Since Perl is a lot similar to other widely used languages syntactically, it is easier to code and learn in Perl. Programs can be written in Perl in any of the widely used text editors like Notepad++, gedit, etc.",
+        "user_id:": 1
+    },
+    {
+        "title": "My Post",
+        "content": "For Pagination post probably idk",
+        "user_id:": 1
+    },
+    {
+        "title": "Scala",
+        "content": "Scala Programming Language\r\n\r\n\r\nScala is a general-purpose, high-level, multi-paradigm programming language. It is a pure object-oriented programming language which also provides support to the functional programming approach. Scala programs can convert to bytecodes and can run on the JVM (Java Virtual Machine). Scala stands for Scalable language. It also provides Javascript runtimes. Scala is highly influenced by Java and some other programming languages like Lisp, Haskell, Pizza etc.",
+        "user_id:": 1
+    },
+    {
+        "title": "Prog 1",
+        "content": "Python Programming Language\r\n\r\n\r\n\r\nBelow are some facts about Python.\r\n\r\nPython is a widely used general-purpose, high-level programming language.\r\nPython allows programming in Object-Oriented and Procedural paradigms.\r\nPython programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.\r\nPython language is being used by almost all tech-giant companies like \u2013 Google, Amazon, Facebook, Instagram, Dropbox, Uber\u2026 etc.\r\nThe biggest strength of the Python is large library which can be used for the following\r\nMachine Learning\r\nGUI Applications (like Kivy, Tkinter, PyQt etc. )\r\nWeb frameworks like Django (used by YouTube, Instagram, Dropbox)\r\nImage processing (like OpenCV, Pillow)\r\nWeb scraping (like Scrapy, BeautifulSoup, Selenium)\r\nTest frameworks\r\nMultimedia\r\nScientific computing\r\nText processing and many more..",
+        "user_id:": 1
+    },
+    {
+        "title": "Blog 12",
+        "content": "C++ Programming Language\r\n\r\nC++ is a general purpose programming language and widely used now a days for competitive programming. It has imperative, object-oriented and generic programming features. C++ runs on lots of platform like Windows, Linux, Unix, Mac etc.\r\n\r\nC++ Recent Articles!",
+        "user_id:": 1
+    },
+    {
+        "title": "Blog 6",
+        "content": "C Programming Language\r\n\r\n\r\nC is a procedural programming language. It was initially developed by Dennis Ritchie as a system programming language to write operating system. The main features of C language include low-level access to memory, simple set of keywords, and clean style, these features make C language suitable for system programming like operating system or compiler development.",
+        "user_id:": 1
+    },
+    {
+        "title": "Blog 4",
+        "content": "Lower bound for comparison based sorting algorithms\r\nThe problem of sorting can be viewed as following.\r\nInput: A sequence of n numbers <a1, a2, . . . , an>.\r\nOutput: A permutation (reordering) <a\u20181, a\u20182, . . . , a\u2018n> of the input sequence such that a\u20181 <= a\u20182 \u2026.. <= a\u2018n.",
+        "user_id:": 1
+    },
+    {
+        "title": "Post 2",
+        "content": "Which sorting algorithm makes minimum number of memory writes?\r\nMinimizing the number of writes is useful when making writes to some huge data set is very expensive, such as with EEPROMs or Flash memory, where each write reduces the lifespan of the memory.\r\nAmong the sorting algorithms that we generally study in our data structure and algorithm courses,  Selection Sort makes least number of writes (it makes O(n) swaps).  But, Cycle Sort almost always makes less number of writes compared to Selection Sort.  In Cycle Sort, each value is either written zero times, if it\u2019s already in its correct position, or written one time to its correct position. This matches the minimal number of overwrites required for a completed in-place sort.\r\n\r\nSources:\r\nhttp://en.wikipedia.org/wiki/Cycle_sort\r\nhttp://en.wikipedia.org/wiki/Selection_sort\r\n\r\nPlease write comments if you find anything incorrect, or you want to share more information about the topic discussed above.",
+        "user_id:": 1
+    },
+    {
+        "title": "Blog 2",
+        "content": "My wife is very beautiful",
+        "user_id:": 1
+    }
+]
